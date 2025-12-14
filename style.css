@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+   beckground-color: skyblue;
+}
+
+.kooh {
+   text-align: center;
+}
+
+.koop {
+    font-size: 25px;
+    color:blue;
+    margin-left: 25px;
+}
+
+ul li {
+   margin-left: 109px;
+   font-size: 20px;
+}
+
+.koo4 {
+    border-top: 5px solid black;
+    border-bottom: 5px solid black;
+    text-align: conter;
+    padding: 20px;
+}
+
+footer {
+    background-color:#5134F6;
+    color: black;
+    padding: 1px;
+}
+
+.koo {
+    padding-left: 30px;
+}
